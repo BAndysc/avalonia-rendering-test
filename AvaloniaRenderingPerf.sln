@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaRenderingPerf", "AvaloniaRenderingPerf\AvaloniaRenderingPerf.csproj", "{B2554054-FDB9-477D-9C19-8D0EFF9FD784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2554054-FDB9-477D-9C19-8D0EFF9FD784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2554054-FDB9-477D-9C19-8D0EFF9FD784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2554054-FDB9-477D-9C19-8D0EFF9FD784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2554054-FDB9-477D-9C19-8D0EFF9FD784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

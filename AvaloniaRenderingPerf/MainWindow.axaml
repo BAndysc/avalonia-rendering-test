@@ -1,0 +1,14 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:avaloniaRenderingPerf="clr-namespace:AvaloniaRenderingPerf"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="AvaloniaRenderingPerf.MainWindow"
+        Title="AvaloniaRenderingPerf">
+    <Panel>
+      <avaloniaRenderingPerf:OpenGlView />
+      <!-- <avaloniaRenderingPerf:RenderControl /> -->
+      <TextBlock Background="Black" Foreground="White" Text="{ReflectionBinding Resolution}" HorizontalAlignment="Right" VerticalAlignment="Top"></TextBlock>
+    </Panel>
+</Window>
